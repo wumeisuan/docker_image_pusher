@@ -1,1 +1,1 @@
-lovechen/embyserver
+hczjl/embyserver:beta
