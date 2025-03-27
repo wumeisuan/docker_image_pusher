@@ -1,1 +1,1 @@
-hczjl/embyserver:beta
+amtoaer/bili-sync-rs:v2.5.0
