@@ -1,1 +1,1 @@
-amtoaer/bili-sync-rs:v2.5.0
+homeassistant/home-assistant:2025.1.4
