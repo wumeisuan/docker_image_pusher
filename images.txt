@@ -1,1 +1,1 @@
-homeassistant/home-assistant:2025.1.4
+homeassistant/home-assistant:2025.4.1
