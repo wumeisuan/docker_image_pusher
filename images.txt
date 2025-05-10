@@ -1,1 +1,1 @@
-gaomd/ikev2-vpn-server:latest
+siomiz/softethervpn:5.02.5185
