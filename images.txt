@@ -1,1 +1,1 @@
-gaomd/ikev2-vpn-server:0.3.0
+gaomd/ikev2-vpn-server:latest
