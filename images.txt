@@ -1,1 +1,1 @@
-nodered/node-red:4.1.1
+nodered/node-red:4.1.2
