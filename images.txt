@@ -1,1 +1,1 @@
-homeassistant/home-assistant:2026.4.4
+nodered/node-red:5.0.0
