@@ -1,1 +1,1 @@
-nodered/node-red:5.0.0
+nodered/node-red:5.0.4
