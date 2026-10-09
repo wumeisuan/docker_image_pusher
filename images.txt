@@ -1,4 +1,4 @@
 nodered/node-red:5.0.6
 homeassistant/home-assistant:2026.9.4
 nodered/node-red:5.0.7
-keejo/anyq:1.0
+
